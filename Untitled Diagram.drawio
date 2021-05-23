@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T15:34:48.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.259" version="14.7.0" etag="YOU0_VLSDDqaKtV9lXUb" type="github"><diagram id="yy4K797PcX0gtnzr4sSB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-23T15:41:06.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.259" etag="5Lpsf4GMGCAO4VS-iJfL" version="14.7.0" type="github">
+  <diagram id="yy4K797PcX0gtnzr4sSB" name="Page-1">
+    <mxGraphModel dx="1381" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RhRqt42vF8fE50-i6HkQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RhRqt42vF8fE50-i6HkQ-1" target="RhRqt42vF8fE50-i6HkQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhRqt42vF8fE50-i6HkQ-1" value="&lt;h1&gt;main&lt;/h1&gt;&lt;div&gt;Ссылки на остальные страницы, краткое резюме&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="710" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RhRqt42vF8fE50-i6HkQ-2" value="&lt;h1&gt;ready_apps_page&lt;/h1&gt;&lt;div&gt;Страница с краткими описаниями готовых проектов, скриншотами&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="480" width="200" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
